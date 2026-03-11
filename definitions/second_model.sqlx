@@ -1,0 +1,8 @@
+config {
+    type: "view",
+    schema: "vendas"
+}
+
+SELECT
+  "clientes" AS name,
+  "clientes2" AS name2
